@@ -1,0 +1,14 @@
+C:\Users\admil\source\repos\EnumeracaoPratica\EnumeracaoPratica\bin\Debug\netcoreapp3.1\EnumeracaoPratica.exe
+C:\Users\admil\source\repos\EnumeracaoPratica\EnumeracaoPratica\bin\Debug\netcoreapp3.1\EnumeracaoPratica.deps.json
+C:\Users\admil\source\repos\EnumeracaoPratica\EnumeracaoPratica\bin\Debug\netcoreapp3.1\EnumeracaoPratica.runtimeconfig.json
+C:\Users\admil\source\repos\EnumeracaoPratica\EnumeracaoPratica\bin\Debug\netcoreapp3.1\EnumeracaoPratica.runtimeconfig.dev.json
+C:\Users\admil\source\repos\EnumeracaoPratica\EnumeracaoPratica\bin\Debug\netcoreapp3.1\EnumeracaoPratica.dll
+C:\Users\admil\source\repos\EnumeracaoPratica\EnumeracaoPratica\bin\Debug\netcoreapp3.1\EnumeracaoPratica.pdb
+C:\Users\admil\source\repos\EnumeracaoPratica\EnumeracaoPratica\obj\Debug\netcoreapp3.1\EnumeracaoPratica.csproj.AssemblyReference.cache
+C:\Users\admil\source\repos\EnumeracaoPratica\EnumeracaoPratica\obj\Debug\netcoreapp3.1\EnumeracaoPratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admil\source\repos\EnumeracaoPratica\EnumeracaoPratica\obj\Debug\netcoreapp3.1\EnumeracaoPratica.AssemblyInfoInputs.cache
+C:\Users\admil\source\repos\EnumeracaoPratica\EnumeracaoPratica\obj\Debug\netcoreapp3.1\EnumeracaoPratica.AssemblyInfo.cs
+C:\Users\admil\source\repos\EnumeracaoPratica\EnumeracaoPratica\obj\Debug\netcoreapp3.1\EnumeracaoPratica.csproj.CoreCompileInputs.cache
+C:\Users\admil\source\repos\EnumeracaoPratica\EnumeracaoPratica\obj\Debug\netcoreapp3.1\EnumeracaoPratica.dll
+C:\Users\admil\source\repos\EnumeracaoPratica\EnumeracaoPratica\obj\Debug\netcoreapp3.1\EnumeracaoPratica.pdb
+C:\Users\admil\source\repos\EnumeracaoPratica\EnumeracaoPratica\obj\Debug\netcoreapp3.1\EnumeracaoPratica.genruntimeconfig.cache
